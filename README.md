@@ -4,7 +4,7 @@
 Below are the images showing:
 1. Deployment of the contract
 
-! [screenshot] (./Execution_Results/deploy.png)
+![screenshot](./Execution_Results/deploy.png)
 
 2. Setting of the accounts 
 
